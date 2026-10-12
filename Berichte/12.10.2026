@@ -1,0 +1,49 @@
+Hallo
+
+
+
+
+
+
+
+# PHP Cheat Sheet – Minimal
+
+## Grundlagen
+- `<?php ... ?>` – PHP-Block
+- `// ...` – Kommentar
+- `echo` – Ausgabe
+- `$name = wert;` – Variable
+- `.` – Strings verketten
+- `var_dump()` – Variable prüfen
+
+## Kontrollstrukturen
+- `if / elseif / else` – Bedingung
+- `switch / case` – Mehrfachauswahl
+- `for` – Zählschleife
+- `while` – solange wahr
+- `foreach ($arr as $key => $wert)` – über Array
+
+## Funktionen
+- `function name($a) { return ...; }` – Funktion definieren
+
+## Arrays
+- `["key" => "wert"]` – Array
+- `count()` – Anzahl
+- `array_push()` – hinzufügen
+- `in_array()` – Wert vorhanden?
+
+## Strings
+- `strlen()` – Länge
+- `str_replace()` – ersetzen
+- `explode()` / `implode()` – String ↔ Array
+
+## Formulare
+- `$_GET` / `$_POST` – Formulardaten
+- `isset()` / `empty()` – gesetzt / leer?
+- `htmlspecialchars()` – gegen XSS
+
+## Sonstiges
+- `include` / `require` – Datei einbinden
+- `session_start()` / `$_SESSION` – Session
+- `try {} catch (Exception $e) {}` – Fehler abfangen
+- `class` / `new` / `$this` – OOP Grundlagen
