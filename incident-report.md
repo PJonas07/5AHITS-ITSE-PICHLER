@@ -6,12 +6,12 @@ title: "Incident-Report: AdFection – Zero-Click-Spyware über Online-Werbung b
 
 | | |
 |---|---|
-| **Namen** | [Name 1], [Name 2] |
-| **Klasse** | [Klasse] |
+| **Namen** | Jonas Pichler, Jan Freitag |
+| **Klasse** | 5AHITS |
 | **Fach** | ITSE (Theorie) – Incident-Briefing |
-| **Datum** | [Datum des Briefings] |
+| **Datum** | 20.11.2026 |
 | **Thema der Präsentation** | Zero-Click Spyware |
-| **KI-Unterstützung** | Recherche und Textentwurf mit Unterstützung von **Claude Opus 5.5** (Anthropic). Anteil der KI-Unterstützung: [vom Team ergänzen, z. B. „hoch – Entwurf durch KI, Prüfung und Überarbeitung durch das Team“] |
+| **KI-Unterstützung** | Recherche und Textentwurf mit Unterstützung von **Claude Opus 5.5** (Anthropic). |
 
 ---
 
