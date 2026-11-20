@@ -11,7 +11,7 @@ title: "Incident-Report: AdFection – Zero-Click-Spyware über Online-Werbung b
 | **Fach** | ITSE (Theorie) – Incident-Briefing |
 | **Datum** | 20.11.2026 |
 | **Thema der Präsentation** | Zero-Click Spyware |
-| **KI-Unterstützung** | Recherche und Textentwurf mit Unterstützung von **Claude Opus 5.5** (Anthropic). |
+| **KI-Unterstützung** | Recherche und Textentwurf mit Unterstützung von **Claude Opus 5.5** (Anthropic) und KIMI für die Demo |
 
 ---
 
